@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Adeel 👋
 
-<!--
-**adeel-akbar/adeel-akbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate learning backend development with Python.
 
-Here are some ideas to get you started:
+I'm currently strengthening my fundamentals data structures, OOP, and building real, hands-on projects instead of just following tutorials. Recently built a wake-word voice assistant (Friday) using speech recognition, text-to-speech, and an AI fallback.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: Backend development in Python
+- 🛠️ Languages: Python
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adeelakbarr)
+- 📍 Based in Pakistan
+
+---
+🔨 Building in public, one project at a time.
